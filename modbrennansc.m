@@ -1,9 +1,9 @@
 function x = modbrennansc(b,a,c,f,xmin)
 % Brennan-Schwartz modified Algorithm 
-% Tridiagonal system solver with Thomas algorithm (LU factorization)
-% with projection (American Options)
+% Projected tridiagonal system solver with Thomas algorithm (LU factorization)
+% for American Options
 %
-% FUNCTION : x = tridiagsys(b,a,c,f,xmin)
+% FUNCTION : x = modbrennansc(b,a,c,f,xmin)
 %
 % a: Vector containing the main diagonal of the matrix
 % b: Vector containing the lower diagonal of the matrix
