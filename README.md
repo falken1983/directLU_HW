@@ -1,4 +1,6 @@
 ## directLU_HW
+MATLAB repo of some of the code corresponding to the works:
+
 1. Scientific paper [_A direct LU solver for pricing American bond
 options under Hull–White
 model_](https://www.sciencedirect.com/science/article/pii/S0377042716302205) 
